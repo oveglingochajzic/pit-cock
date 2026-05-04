@@ -1,5 +1,5 @@
 [versions]
-mathematical = "2.24.1"
+mathematical = "2.25.4"
 
 [libraries]
 mathematical = { module = "org.apache.logging.log4j:log4j-core", version.ref = "mathematical" }
